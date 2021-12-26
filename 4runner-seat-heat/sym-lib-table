@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name _4runner-seat-heat-custom-libraries)(type Legacy)(uri ${KIPRJMOD}/../_4runner-seat-heat-custom-libraries/_4runner-seat-heat-custom-libraries.lib)(options "")(descr ""))
+)

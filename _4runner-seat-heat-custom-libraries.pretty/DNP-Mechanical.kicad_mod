@@ -1,0 +1,15 @@
+(module DNP-Mechanical (layer F.Cu) (tedit 61C8A04E)
+  (attr virtual)
+  (fp_text reference REF** (at 0.22 -1.63) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value DNP-Mechanical (at 0.22 -2.63) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 connect circle (at -5.89 0.01) (size 1.524 1.524) (layers Dwgs.User))
+  (pad 2 connect circle (at -2.588 0.01) (size 1.524 1.524) (layers Dwgs.User))
+  (pad 3 connect circle (at 0.714 0.01) (size 1.524 1.524) (layers Dwgs.User))
+  (pad 4 connect circle (at 4.016 0.01) (size 1.524 1.524) (layers Dwgs.User))
+  (pad 5 connect circle (at 7.318 0.01) (size 1.524 1.524) (layers Dwgs.User))
+  (pad 6 connect circle (at 10.62 0.01) (size 1.524 1.524) (layers Dwgs.User))
+)
