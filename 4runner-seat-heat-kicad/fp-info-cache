@@ -1,4 +1,4 @@
-19103894383916895
+19103913976518753
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83027,14 +83027,21 @@ varistor SIOV
 2
 2
 _4runner-seat-heat-custom-libraries
-4runner-front-graphic
+4-40-Mounting-Hole
+
+
+0
+1
+1
+_4runner-seat-heat-custom-libraries
+4runner-logo-graphic
 
 
 0
 0
 0
 _4runner-seat-heat-custom-libraries
-4runner-logo-graphic
+4runner-truck-logo
 
 
 0
@@ -83076,13 +83083,6 @@ Kingbright-APT1608LZGCK
 2
 2
 _4runner-seat-heat-custom-libraries
-Mounting-Hole
-
-
-0
-1
-1
-_4runner-seat-heat-custom-libraries
 TE-284539-6
 
 
@@ -83097,12 +83097,12 @@ TE-796864-2
 2
 2
 _4runner-seat-heat-custom-libraries
-TE-796864-3
+TE-796864-4
 
 
 0
-3
-3
+4
+4
 _4runner-seat-heat-custom-libraries
 TPS54302DDCR
 

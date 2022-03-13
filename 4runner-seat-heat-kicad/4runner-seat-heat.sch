@@ -309,8 +309,8 @@ $Comp
 L Device:R R9
 U 1 1 61C78AAD
 P 6080 1930
-F 0 "R9" V 5873 1930 50  0000 C CNN
-F 1 "3.6k" V 5964 1930 50  0000 C CNN
+F 0 "R9" V 5960 1820 50  0000 C CNN
+F 1 "3.6k" V 5960 2005 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 6010 1930 50  0001 C CNN
 F 3 "~" H 6080 1930 50  0001 C CNN
 	1    6080 1930
@@ -349,16 +349,12 @@ F 3 "" H 5850 2005 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5850 2005 5730 2005
-Text GLabel 6460 1630 2    50   Input ~ 0
+Text GLabel 6275 1305 1    50   Input ~ 0
 Right-Illum
 Text GLabel 6460 1930 2    50   Input ~ 0
 Right-Pot
-Wire Wire Line
-	6460 1630 5730 1630
-Text GLabel 6460 1770 2    50   Input ~ 0
+Text GLabel 7125 1855 2    50   Input ~ 0
 +12-Polyfuse
-Wire Wire Line
-	6390 1700 5730 1700
 $Comp
 L power:GND #PWR02
 U 1 1 61C8AD28
@@ -370,21 +366,12 @@ F 3 "" H 6300 2290 50  0001 C CNN
 	1    6300 2290
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6390 1770 6460 1770
-Wire Wire Line
-	6390 1700 6390 1770
-Wire Wire Line
-	6390 1770 6390 1855
-Wire Wire Line
-	6390 1855 5730 1855
-Connection ~ 6390 1770
 $Comp
 L Device:R R6
 U 1 1 61C902A6
 P 6030 4050
-F 0 "R6" V 5823 4050 50  0000 C CNN
-F 1 "3.6k" V 5914 4050 50  0000 C CNN
+F 0 "R6" V 5905 3990 50  0000 C CNN
+F 1 "3.6k" V 5905 4145 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 5960 4050 50  0001 C CNN
 F 3 "~" H 6030 4050 50  0001 C CNN
 	1    6030 4050
@@ -423,16 +410,8 @@ F 3 "" H 5800 4125 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5800 4125 5680 4125
-Text GLabel 6410 3750 2    50   Input ~ 0
-Left-Illum
 Text GLabel 6410 4050 2    50   Input ~ 0
 Left-Pot
-Wire Wire Line
-	6410 3750 5680 3750
-Text GLabel 6410 3890 2    50   Input ~ 0
-+12-Polyfuse
-Wire Wire Line
-	6340 3820 5680 3820
 $Comp
 L power:GND #PWR08
 U 1 1 61C904C3
@@ -444,15 +423,6 @@ F 3 "" H 6250 4410 50  0001 C CNN
 	1    6250 4410
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6340 3890 6410 3890
-Wire Wire Line
-	6340 3820 6340 3890
-Wire Wire Line
-	6340 3890 6340 3975
-Wire Wire Line
-	6340 3975 5680 3975
-Connection ~ 6340 3890
 $Comp
 L _4runner-seat-heat-custom-libraries:TE-796859-2 J4
 U 1 1 61C9A3A1
@@ -983,60 +953,7 @@ $EndComp
 Wire Wire Line
 	10125 8005 10125 8030
 $Comp
-L Device:R R18
-U 1 1 61D3C8DB
-P 11045 7755
-F 0 "R18" H 10975 7709 50  0000 R CNN
-F 1 "1k" H 10975 7800 50  0000 R CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 10975 7755 50  0001 C CNN
-F 3 "~" H 11045 7755 50  0001 C CNN
-	1    11045 7755
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:R R17
-U 1 1 61D3CEBE
-P 11365 7605
-F 0 "R17" V 11180 7595 50  0000 C CNN
-F 1 "3.6k" V 11270 7595 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 11295 7605 50  0001 C CNN
-F 3 "~" H 11365 7605 50  0001 C CNN
-	1    11365 7605
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	11045 7605 11215 7605
-Connection ~ 11045 7605
-$Comp
-L power:GND #PWR023
-U 1 1 61D3CECA
-P 11045 7930
-F 0 "#PWR023" H 11045 7680 50  0001 C CNN
-F 1 "GND" H 11050 7757 50  0000 C CNN
-F 2 "" H 11045 7930 50  0001 C CNN
-F 3 "" H 11045 7930 50  0001 C CNN
-	1    11045 7930
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	11045 7905 11045 7930
-Wire Wire Line
-	11575 7605 11515 7605
-Wire Wire Line
-	9235 7605 11045 7605
-$Comp
-L _4runner-seat-heat-custom-libraries:TE796864-3 J10
-U 1 1 61D4C3BB
-P 2995 5230
-F 0 "J10" H 3063 5423 50  0000 C CNN
-F 1 "TE796864-3" H 3063 5332 50  0000 C CNN
-F 2 "_4runner-seat-heat-custom-libraries:TE-796864-3" H 3025 5320 50  0001 C CNN
-F 3 "" H 3025 5320 50  0001 C CNN
-	1    2995 5230
-	1    0    0    -1  
-$EndComp
-$Comp
-L _4runner-seat-heat-custom-libraries:TE-796859-3 J9
+L _4runner-seat-heat-custom-libraries:TE-796859-4 J9
 U 1 1 61D49BC5
 P 2430 5230
 F 0 "J9" H 2385 5405 50  0000 L CNN
@@ -1049,43 +966,39 @@ $EndComp
 $Comp
 L Device:Fuse F1
 U 1 1 61D5641E
-P 3955 5350
-F 0 "F1" V 4152 5350 50  0000 C CNN
-F 1 "Fuse" V 4061 5350 50  0000 C CNN
-F 2 "_4runner-seat-heat-custom-libraries:Keystone-3587-20" V 3885 5350 50  0001 C CNN
-F 3 "~" H 3955 5350 50  0001 C CNN
-	1    3955 5350
+P 4080 5350
+F 0 "F1" V 4277 5350 50  0000 C CNN
+F 1 "Fuse" V 4186 5350 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:Keystone-3587-20" V 4010 5350 50  0001 C CNN
+F 3 "~" H 4080 5350 50  0001 C CNN
+	1    4080 5350
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	3245 5350 3805 5350
 Text Label 3300 5350 0    50   ~ 0
 12VDC-IGN
 $Comp
 L power:GND #PWR09
 U 1 1 61D5BF45
-P 3580 5430
-F 0 "#PWR09" H 3580 5180 50  0001 C CNN
-F 1 "GND" V 3585 5302 50  0000 R CNN
-F 2 "" H 3580 5430 50  0001 C CNN
-F 3 "" H 3580 5430 50  0001 C CNN
-	1    3580 5430
+P 3725 5430
+F 0 "#PWR09" H 3725 5180 50  0001 C CNN
+F 1 "GND" V 3730 5302 50  0000 R CNN
+F 2 "" H 3725 5430 50  0001 C CNN
+F 3 "" H 3725 5430 50  0001 C CNN
+	1    3725 5430
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	3245 5430 3580 5430
 Text Label 3295 5430 0    50   ~ 0
 GND
-Text GLabel 4160 5350 2    50   Input ~ 0
+Text GLabel 4285 5350 2    50   Input ~ 0
 +12VDC
 Wire Wire Line
-	4105 5350 4160 5350
+	4230 5350 4285 5350
 Text GLabel 4160 5510 2    50   Input ~ 0
-+Lights
++12-TAIL
 Wire Wire Line
 	3245 5510 4160 5510
 Text Label 3285 5510 0    50   ~ 0
-+Lights
++12-TAIL
 $Comp
 L Device:Polyfuse F2
 U 1 1 61D6B059
@@ -1451,8 +1364,181 @@ Wire Wire Line
 Wire Wire Line
 	4810 6550 4815 6550
 Connection ~ 4810 6550
-Text GLabel 11575 7605 2    50   Input ~ 0
-+12VDC
 Text GLabel 10620 7705 2    50   Input ~ 0
-+Lights
++12-TAIL
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796866-4 J10
+U 1 1 61D4C3BB
+P 2995 5210
+F 0 "J10" H 3063 5403 50  0000 C CNN
+F 1 "TE796864-3" H 3063 5312 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-796864-3" H 3025 5300 50  0001 C CNN
+F 3 "" H 3025 5300 50  0001 C CNN
+	1    2995 5210
+	1    0    0    -1  
+$EndComp
+Text Label 3300 5590 0    50   ~ 0
+DIMMER-GND
+Text GLabel 4580 5590 2    50   Input ~ 0
+DIMMER-GND
+Wire Wire Line
+	3245 5350 3930 5350
+Wire Wire Line
+	3245 5430 3725 5430
+Wire Wire Line
+	3245 5590 4580 5590
+Text GLabel 6820 3975 2    50   Input ~ 0
++12-Polyfuse
+Wire Wire Line
+	5680 3975 6820 3975
+Connection ~ 6275 1630
+Wire Wire Line
+	6275 1630 6385 1630
+Wire Wire Line
+	6275 1330 6275 1305
+Text GLabel 6710 1630 2    50   Input ~ 0
++12-TAIL
+Wire Wire Line
+	6685 1630 6710 1630
+Wire Wire Line
+	5730 1630 6275 1630
+Text GLabel 7155 1700 2    50   Input ~ 0
+DIMMER-GND
+Wire Wire Line
+	5730 1700 7155 1700
+Wire Wire Line
+	5730 1855 7125 1855
+$Comp
+L Device:R R21
+U 1 1 6229FFBD
+P 6275 1480
+F 0 "R21" H 6440 1420 50  0000 R CNN
+F 1 "0ohm" H 6545 1510 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6205 1480 50  0001 C CNN
+F 3 "~" H 6275 1480 50  0001 C CNN
+	1    6275 1480
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R22
+U 1 1 62298248
+P 6535 1630
+F 0 "R22" V 6328 1630 50  0000 C CNN
+F 1 "0ohm" V 6419 1630 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6465 1630 50  0001 C CNN
+F 3 "~" H 6535 1630 50  0001 C CNN
+	1    6535 1630
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R23
+U 1 1 622E1A26
+P 6215 3600
+F 0 "R23" H 6380 3540 50  0000 R CNN
+F 1 "0ohm" H 6485 3630 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6145 3600 50  0001 C CNN
+F 3 "~" H 6215 3600 50  0001 C CNN
+	1    6215 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R24
+U 1 1 622E1A30
+P 6475 3750
+F 0 "R24" V 6268 3750 50  0000 C CNN
+F 1 "0ohm" V 6359 3750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6405 3750 50  0001 C CNN
+F 3 "~" H 6475 3750 50  0001 C CNN
+	1    6475 3750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6215 3750 6325 3750
+Wire Wire Line
+	6660 3750 6625 3750
+Text GLabel 6215 3450 1    50   Input ~ 0
+Left-Illum
+Text GLabel 6660 3750 2    50   Input ~ 0
++12-TAIL
+Text GLabel 7105 3820 2    50   Input ~ 0
+DIMMER-GND
+Wire Wire Line
+	5680 3820 7105 3820
+Wire Wire Line
+	6215 3750 5680 3750
+Connection ~ 6215 3750
+Wire Notes Line
+	10570 4670 16225 4670
+Wire Notes Line
+	16225 4670 16225 6555
+Wire Notes Line
+	16225 6555 10570 6555
+Wire Notes Line
+	10570 6555 10570 4670
+Text Notes 10565 6670 0    50   ~ 0
+Only populate if not using vehicle backlight dimming
+Wire Notes Line
+	6330 2950 6330 3725
+Wire Notes Line
+	6330 3725 5925 3725
+Wire Notes Line
+	5925 3725 5925 2950
+Wire Notes Line
+	5925 2950 6330 2950
+Text Notes 5655 2895 0    50   ~ 0
+Only populate if not using \nvehicle backlight dimming
+Wire Notes Line
+	5965 770  6385 770 
+Wire Notes Line
+	6385 770  6385 1670
+Wire Notes Line
+	6385 1670 5965 1670
+Wire Notes Line
+	5965 770  5965 1670
+Text Notes 5710 735  0    50   ~ 0
+Only populate if not using \nvehicle backlight dimming
+Text GLabel 7010 7905 0    50   Input ~ 0
++12VDC
+Wire Wire Line
+	7010 7905 7070 7905
+Wire Wire Line
+	7415 8205 7415 8230
+$Comp
+L power:GND #PWR023
+U 1 1 61D3CECA
+P 7415 8230
+F 0 "#PWR023" H 7415 7980 50  0001 C CNN
+F 1 "GND" H 7420 8057 50  0000 C CNN
+F 2 "" H 7415 8230 50  0001 C CNN
+F 3 "" H 7415 8230 50  0001 C CNN
+	1    7415 8230
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 61D3CEBE
+P 7220 7905
+F 0 "R17" V 7035 7895 50  0000 C CNN
+F 1 "3.6k" V 7125 7895 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7150 7905 50  0001 C CNN
+F 3 "~" H 7220 7905 50  0001 C CNN
+	1    7220 7905
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 61D3C8DB
+P 7415 8055
+F 0 "R18" H 7345 8009 50  0000 R CNN
+F 1 "1k" H 7345 8100 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7345 8055 50  0001 C CNN
+F 3 "~" H 7415 8055 50  0001 C CNN
+	1    7415 8055
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7415 7905 7370 7905
+Connection ~ 7415 7905
+Wire Wire Line
+	7785 7905 7415 7905
 $EndSCHEMATC
