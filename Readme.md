@@ -18,7 +18,7 @@
 | | |
 |-------------------|---------------:|
 | Height (mm)       | 75             |
-| Width (mm)        | 67             |
+| Width (mm)        | 72             |
 | Layers            | 2              |
 | Thickness (mm)    | 1.6            |
 | Solder Mask       | Black          |

@@ -30,9 +30,9 @@ D Conn Terminal Block F 2 POS 5.08mm Screw RA Panel Mount 15A/Contact
 F https://octopart.com/796859-2-te+connectivity-40261059?r=sp
 $ENDCMP
 #
-$CMP TE-796859-3
-D Conn Terminal Block F 3 POS 5.08mm Screw RA Panel Mount 15A/Contact
-F https://octopart.com/796859-3-te+connectivity-40259633?r=sp
+$CMP TE-796859-4
+D Conn Terminal Block F 4 POS 5.08mm Screw RA Panel Mount 15A/Contact
+F https://octopart.com/796858-4-te+connectivity-40338311?r=pap
 $ENDCMP
 #
 $CMP TE-796864-2
@@ -40,9 +40,9 @@ D Conn Wire to Board HDR 2 POS 5mm Solder RA Side Entry Thru-Hole Carton
 F https://octopart.com/796864-2-te+connectivity-40252687?r=sp
 $ENDCMP
 #
-$CMP TE-796864-3
+$CMP TE-796866-4
 D Conn Shrouded Header (4 Sides) HDR 3 POS 5mm Solder RA Side Entry Thru-Hole Carton
-F https://octopart.com/796864-3-te+connectivity+%2F+amp-41648149?r=sp
+F https://octopart.com/1-796866-4-te+connectivity+%2F+amp-40529985
 $ENDCMP
 #
 $CMP TPS54302DDCR
