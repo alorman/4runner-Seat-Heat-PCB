@@ -1025,7 +1025,7 @@ Wire Wire Line
 Wire Wire Line
 	9235 7605 11045 7605
 $Comp
-L _4runner-seat-heat-custom-libraries:TE796864-3 J10
+L 4runner-seat-heat-rescue:TE796864-3-_4runner-seat-heat-custom-libraries J10
 U 1 1 61D4C3BB
 P 2995 5230
 F 0 "J10" H 3063 5423 50  0000 C CNN
@@ -1455,4 +1455,8 @@ Text GLabel 11575 7605 2    50   Input ~ 0
 +12VDC
 Text GLabel 10620 7705 2    50   Input ~ 0
 +Lights
+Text Notes 3150 2350 0    50   ~ 0
+Pin: 6x TE-1743655-1
+Text Notes 3150 4350 0    50   ~ 0
+Pin: 6x TE-1743655-1
 $EndSCHEMATC
