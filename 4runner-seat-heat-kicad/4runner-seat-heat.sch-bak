@@ -1,0 +1,1544 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLedger 17000 11000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L _4runner-seat-heat-custom-libraries:Toyota-84751-35090 S1
+U 1 1 61C4B200
+P 2130 1300
+F 0 "S1" H 2196 1548 50  0000 C CNN
+F 1 "Toyota-84751-35090" H 2196 1457 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 1780 1350 50  0001 C CNN
+F 3 "" H 1780 1350 50  0001 C CNN
+	1    2130 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:Toyota-84751-35100 S2
+U 1 1 61C4C079
+P 2100 3300
+F 0 "S2" H 2204 3488 50  0000 C CNN
+F 1 "Toyota-84751-35100" H 2204 3397 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 1780 3310 50  0001 C CNN
+F 3 "" H 1780 3310 50  0001 C CNN
+	1    2100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin1
+U 1 1 61C4E3E6
+P 3455 1550
+F 0 "Pin1" H 3442 1631 50  0001 C CNN
+F 1 "TE-1743655-1" H 3855 1450 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:dev-empty-footprint" H 3455 1550 50  0001 C CNN
+F 3 "" H 3455 1550 50  0001 C CNN
+	1    3455 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:Toyota-90980-10964 J1
+U 1 1 61C4FABB
+P 3530 1475
+F 0 "J1" H 3180 1500 50  0000 L CNN
+F 1 "Toyota-90980-10964" H 3330 1500 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3530 1475 50  0001 C CNN
+F 3 "" H 3530 1475 50  0001 C CNN
+	1    3530 1475
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin2
+U 1 1 61C52089
+P 3455 1625
+F 0 "Pin2" H 3442 1706 50  0001 C CNN
+F 1 "TE-1743655-1" H 3855 1525 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3455 1625 50  0001 C CNN
+F 3 "" H 3455 1625 50  0001 C CNN
+	1    3455 1625
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin3
+U 1 1 61C5259B
+P 3455 1700
+F 0 "Pin3" H 3442 1781 50  0001 C CNN
+F 1 "TE-1743655-1" H 3855 1600 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3455 1700 50  0001 C CNN
+F 3 "" H 3455 1700 50  0001 C CNN
+	1    3455 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin4
+U 1 1 61C527DC
+P 3455 1775
+F 0 "Pin4" H 3442 1856 50  0001 C CNN
+F 1 "TE-1743655-1" H 3855 1675 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3455 1775 50  0001 C CNN
+F 3 "" H 3455 1775 50  0001 C CNN
+	1    3455 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin5
+U 1 1 61C529D7
+P 3455 1850
+F 0 "Pin5" H 3442 1931 50  0001 C CNN
+F 1 "TE-1743655-1" H 3855 1750 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3455 1850 50  0001 C CNN
+F 3 "" H 3455 1850 50  0001 C CNN
+	1    3455 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin6
+U 1 1 61C52C63
+P 3455 1925
+F 0 "Pin6" H 3442 2006 50  0001 C CNN
+F 1 "TE-1743655-1" H 3590 1650 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3455 1925 50  0001 C CNN
+F 3 "" H 3455 1925 50  0001 C CNN
+	1    3455 1925
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin12
+U 1 1 61C55EBC
+P 3425 3945
+F 0 "Pin12" H 3412 4026 50  0001 C CNN
+F 1 "TE-1743655-1" H 3610 3665 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3425 3945 50  0001 C CNN
+F 3 "" H 3425 3945 50  0001 C CNN
+	1    3425 3945
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin11
+U 1 1 61C55EB2
+P 3425 3870
+F 0 "Pin11" H 3412 3951 50  0001 C CNN
+F 1 "TE-1743655-1" H 3825 3770 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3425 3870 50  0001 C CNN
+F 3 "" H 3425 3870 50  0001 C CNN
+	1    3425 3870
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin10
+U 1 1 61C55EA8
+P 3425 3795
+F 0 "Pin10" H 3412 3876 50  0001 C CNN
+F 1 "TE-1743655-1" H 3825 3695 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3425 3795 50  0001 C CNN
+F 3 "" H 3425 3795 50  0001 C CNN
+	1    3425 3795
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin9
+U 1 1 61C55E9E
+P 3425 3720
+F 0 "Pin9" H 3412 3801 50  0001 C CNN
+F 1 "TE-1743655-1" H 3825 3620 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3425 3720 50  0001 C CNN
+F 3 "" H 3425 3720 50  0001 C CNN
+	1    3425 3720
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin8
+U 1 1 61C55E94
+P 3425 3645
+F 0 "Pin8" H 3412 3726 50  0001 C CNN
+F 1 "TE-1743655-1" H 3825 3545 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3425 3645 50  0001 C CNN
+F 3 "" H 3425 3645 50  0001 C CNN
+	1    3425 3645
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-1743655-1 Pin7
+U 1 1 61C55DB6
+P 3425 3570
+F 0 "Pin7" H 3412 3651 50  0001 C CNN
+F 1 "TE-1743655-1" H 3825 3470 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3425 3570 50  0001 C CNN
+F 3 "" H 3425 3570 50  0001 C CNN
+	1    3425 3570
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:Toyota-90980-10933 J5
+U 1 1 61C4D9D3
+P 3565 3420
+F 0 "J5" H 3165 3395 50  0000 L CNN
+F 1 "Toyota-90980-10933" H 3315 3395 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 3565 3420 50  0001 C CNN
+F 3 "" H 3565 3420 50  0001 C CNN
+	1    3565 3420
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-284510-6 J2
+U 1 1 61C5FFFF
+P 4675 1525
+F 0 "J2" H 4650 1775 50  0000 L CNN
+F 1 "TE-284510-6" H 4450 1650 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:dev-empty-footprint" H 4685 1685 50  0001 C CNN
+F 3 "" H 4685 1685 50  0001 C CNN
+	1    4675 1525
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-284539-6 J3
+U 1 1 61C61185
+P 5480 1530
+F 0 "J3" H 5548 1743 50  0000 C CNN
+F 1 "TE-284539-6" H 5548 1652 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-284539-6" H 5470 1570 50  0001 C CNN
+F 3 "" H 5470 1570 50  0001 C CNN
+	1    5480 1530
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-284510-6 J7
+U 1 1 61C65039
+P 4625 3650
+F 0 "J7" H 4600 3900 50  0000 L CNN
+F 1 "TE-284510-6" H 4400 3775 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 4635 3810 50  0001 C CNN
+F 3 "" H 4635 3810 50  0001 C CNN
+	1    4625 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-284539-6 J8
+U 1 1 61C65217
+P 5430 3650
+F 0 "J8" H 5498 3863 50  0000 C CNN
+F 1 "TE-284539-6" H 5498 3772 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-284539-6" H 5420 3690 50  0001 C CNN
+F 3 "" H 5420 3690 50  0001 C CNN
+	1    5430 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2525 1460 2970 1460
+Wire Wire Line
+	2970 1460 2970 1650
+Wire Wire Line
+	2970 1650 3355 1650
+Wire Wire Line
+	2530 1640 2945 1640
+Wire Wire Line
+	2945 1640 2945 1725
+Wire Wire Line
+	2945 1725 3355 1725
+Wire Wire Line
+	2530 1750 2950 1750
+Wire Wire Line
+	2950 1750 2950 1800
+Wire Wire Line
+	2950 1800 3355 1800
+Wire Wire Line
+	2530 1850 2950 1850
+Wire Wire Line
+	2950 1850 2950 1875
+Wire Wire Line
+	2950 1875 3355 1875
+Wire Wire Line
+	2530 2110 2955 2110
+Wire Wire Line
+	2955 2110 2955 1950
+Wire Wire Line
+	2955 1950 3355 1950
+Wire Wire Line
+	2530 2300 2985 2300
+Wire Wire Line
+	2985 2300 2985 2025
+Wire Wire Line
+	2985 2025 3355 2025
+Wire Wire Line
+	2495 3480 2940 3480
+Wire Wire Line
+	2940 3480 2940 3670
+Wire Wire Line
+	2940 3670 3325 3670
+Wire Wire Line
+	2500 3660 2915 3660
+Wire Wire Line
+	2915 3660 2915 3745
+Wire Wire Line
+	2915 3745 3325 3745
+Wire Wire Line
+	2500 3770 2920 3770
+Wire Wire Line
+	2920 3770 2920 3820
+Wire Wire Line
+	2920 3820 3325 3820
+Wire Wire Line
+	2500 3870 2920 3870
+Wire Wire Line
+	2920 3870 2920 3895
+Wire Wire Line
+	2920 3895 3325 3895
+Wire Wire Line
+	2500 4130 2925 4130
+Wire Wire Line
+	2925 4130 2925 3970
+Wire Wire Line
+	2925 3970 3325 3970
+Wire Wire Line
+	2500 4320 2955 4320
+Wire Wire Line
+	2955 4320 2955 4045
+Wire Wire Line
+	2955 4045 3325 4045
+$Comp
+L Device:R R9
+U 1 1 61C78AAD
+P 6080 1930
+F 0 "R9" V 5960 1820 50  0000 C CNN
+F 1 "3.6k" V 5960 2005 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6010 1930 50  0001 C CNN
+F 3 "~" H 6080 1930 50  0001 C CNN
+	1    6080 1930
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 61C807B3
+P 6300 2140
+F 0 "R12" H 6370 2186 50  0000 L CNN
+F 1 "1k" H 6370 2095 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6230 2140 50  0001 C CNN
+F 3 "~" H 6300 2140 50  0001 C CNN
+	1    6300 2140
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5930 1930 5730 1930
+Wire Wire Line
+	6230 1930 6300 1930
+Wire Wire Line
+	6300 1990 6300 1930
+Connection ~ 6300 1930
+Wire Wire Line
+	6300 1930 6460 1930
+$Comp
+L power:GND #PWR01
+U 1 1 61C8367E
+P 5850 2005
+F 0 "#PWR01" H 5850 1755 50  0001 C CNN
+F 1 "GND" H 5855 1832 50  0000 C CNN
+F 2 "" H 5850 2005 50  0001 C CNN
+F 3 "" H 5850 2005 50  0001 C CNN
+	1    5850 2005
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 2005 5730 2005
+Text GLabel 6275 1305 1    50   Input ~ 0
+Right-Illum
+Text GLabel 6460 1930 2    50   Input ~ 0
+Right-Pot
+Text GLabel 7125 1855 2    50   Input ~ 0
++12-Polyfuse
+$Comp
+L power:GND #PWR02
+U 1 1 61C8AD28
+P 6300 2290
+F 0 "#PWR02" H 6300 2040 50  0001 C CNN
+F 1 "GND" H 6305 2117 50  0000 C CNN
+F 2 "" H 6300 2290 50  0001 C CNN
+F 3 "" H 6300 2290 50  0001 C CNN
+	1    6300 2290
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 61C902A6
+P 6030 4050
+F 0 "R6" V 5905 3990 50  0000 C CNN
+F 1 "3.6k" V 5905 4145 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5960 4050 50  0001 C CNN
+F 3 "~" H 6030 4050 50  0001 C CNN
+	1    6030 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 61C904A4
+P 6250 4260
+F 0 "R8" H 6320 4306 50  0000 L CNN
+F 1 "1k" H 6320 4215 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6180 4260 50  0001 C CNN
+F 3 "~" H 6250 4260 50  0001 C CNN
+	1    6250 4260
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5880 4050 5680 4050
+Wire Wire Line
+	6180 4050 6250 4050
+Wire Wire Line
+	6250 4110 6250 4050
+Connection ~ 6250 4050
+Wire Wire Line
+	6250 4050 6410 4050
+$Comp
+L power:GND #PWR05
+U 1 1 61C904B3
+P 5800 4125
+F 0 "#PWR05" H 5800 3875 50  0001 C CNN
+F 1 "GND" H 5805 3952 50  0000 C CNN
+F 2 "" H 5800 4125 50  0001 C CNN
+F 3 "" H 5800 4125 50  0001 C CNN
+	1    5800 4125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5800 4125 5680 4125
+Text GLabel 6410 4050 2    50   Input ~ 0
+Left-Pot
+$Comp
+L power:GND #PWR08
+U 1 1 61C904C3
+P 6250 4410
+F 0 "#PWR08" H 6250 4160 50  0001 C CNN
+F 1 "GND" H 6255 4237 50  0000 C CNN
+F 2 "" H 6250 4410 50  0001 C CNN
+F 3 "" H 6250 4410 50  0001 C CNN
+	1    6250 4410
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796859-2 J4
+U 1 1 61C9A3A1
+P 14150 1700
+F 0 "J4" H 14150 1140 50  0000 C CNN
+F 1 "TE-796859-2" H 14150 1220 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 14150 1700 50  0001 C CNN
+F 3 "" H 14150 1700 50  0001 C CNN
+	1    14150 1700
+	-1   0    0    1   
+$EndComp
+Text GLabel 13160 1440 0    50   Input ~ 0
++12VDC
+Wire Wire Line
+	13275 1440 13160 1440
+$Comp
+L Device:R R1
+U 1 1 61CA678E
+P 12135 1710
+F 0 "R1" V 11928 1710 50  0000 C CNN
+F 1 "10K" V 12019 1710 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 12065 1710 50  0001 C CNN
+F 3 "~" H 12135 1710 50  0001 C CNN
+	1    12135 1710
+	0    1    1    0   
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796864-2 Left-Heater1
+U 1 1 61C99294
+P 13525 1740
+F 0 "Left-Heater1" H 13740 1135 50  0000 R CNN
+F 1 "TE-796864-2" H 13790 1220 50  0000 R CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-796864-2" H 13525 1740 50  0001 C CNN
+F 3 "" H 13525 1740 50  0001 C CNN
+	1    13525 1740
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13275 1510 12755 1510
+Wire Wire Line
+	11985 1710 11880 1710
+$Comp
+L Device:R R3
+U 1 1 61CB510B
+P 11880 1860
+F 0 "R3" H 11810 1814 50  0000 R CNN
+F 1 "1K" H 11810 1905 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 11810 1860 50  0001 C CNN
+F 3 "~" H 11880 1860 50  0001 C CNN
+	1    11880 1860
+	-1   0    0    1   
+$EndComp
+Connection ~ 11880 1710
+Wire Wire Line
+	11880 1710 11770 1710
+Wire Wire Line
+	12455 1710 12370 1710
+$Comp
+L Device:R R2
+U 1 1 61CB6C0D
+P 12370 1895
+F 0 "R2" H 12300 1849 50  0000 R CNN
+F 1 "100K" H 12300 1940 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 12300 1895 50  0001 C CNN
+F 3 "~" H 12370 1895 50  0001 C CNN
+	1    12370 1895
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12370 1745 12370 1710
+Connection ~ 12370 1710
+Wire Wire Line
+	12370 1710 12285 1710
+Wire Wire Line
+	12370 2045 12755 2045
+Wire Wire Line
+	12755 2045 12755 1910
+Connection ~ 12755 2045
+$Comp
+L Device:LED D1
+U 1 1 61CBBE98
+P 11880 2205
+F 0 "D1" V 11919 2087 50  0000 R CNN
+F 1 "LeftHeatLED" V 11828 2087 50  0000 R CNN
+F 2 "_4runner-seat-heat-custom-libraries:Kingbright-APT1608LZGCK" H 11880 2205 50  0001 C CNN
+F 3 "~" H 11880 2205 50  0001 C CNN
+	1    11880 2205
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11880 2010 11880 2055
+$Comp
+L power:GND #PWR03
+U 1 1 61CBE2C9
+P 11880 2400
+F 0 "#PWR03" H 11880 2150 50  0001 C CNN
+F 1 "GND" H 11885 2227 50  0000 C CNN
+F 2 "" H 11880 2400 50  0001 C CNN
+F 3 "" H 11880 2400 50  0001 C CNN
+	1    11880 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 61CBECFA
+P 12755 2400
+F 0 "#PWR04" H 12755 2150 50  0001 C CNN
+F 1 "GND" H 12760 2227 50  0000 C CNN
+F 2 "" H 12755 2400 50  0001 C CNN
+F 3 "" H 12755 2400 50  0001 C CNN
+	1    12755 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12755 2045 12755 2400
+Wire Wire Line
+	11880 2355 11880 2400
+Text GLabel 11770 1710 0    50   Input ~ 0
+Left-Heat-3V3
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796859-2 J6
+U 1 1 61CC32CB
+P 14170 3440
+F 0 "J6" H 14170 2880 50  0000 C CNN
+F 1 "TE-796859-2" H 14170 2960 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 14170 3440 50  0001 C CNN
+F 3 "" H 14170 3440 50  0001 C CNN
+	1    14170 3440
+	-1   0    0    1   
+$EndComp
+Text GLabel 13180 3180 0    50   Input ~ 0
++12VDC
+Wire Wire Line
+	13295 3180 13180 3180
+$Comp
+L Device:R R4
+U 1 1 61CC3615
+P 12155 3450
+F 0 "R4" V 11948 3450 50  0000 C CNN
+F 1 "10K" V 12039 3450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 12085 3450 50  0001 C CNN
+F 3 "~" H 12155 3450 50  0001 C CNN
+	1    12155 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796864-2 Right-Heater1
+U 1 1 61CC3629
+P 13545 3480
+F 0 "Right-Heater1" H 13820 2875 50  0000 R CNN
+F 1 "TE-796864-2" H 13810 2960 50  0000 R CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-796864-2" H 13545 3480 50  0001 C CNN
+F 3 "" H 13545 3480 50  0001 C CNN
+	1    13545 3480
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13295 3250 12775 3250
+Wire Wire Line
+	12005 3450 11900 3450
+$Comp
+L Device:R R7
+U 1 1 61CC3635
+P 11900 3600
+F 0 "R7" H 11830 3554 50  0000 R CNN
+F 1 "1K" H 11830 3645 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 11830 3600 50  0001 C CNN
+F 3 "~" H 11900 3600 50  0001 C CNN
+	1    11900 3600
+	-1   0    0    1   
+$EndComp
+Connection ~ 11900 3450
+Wire Wire Line
+	11900 3450 11790 3450
+Wire Wire Line
+	12475 3450 12390 3450
+$Comp
+L Device:R R5
+U 1 1 61CC3642
+P 12390 3635
+F 0 "R5" H 12320 3589 50  0000 R CNN
+F 1 "100K" H 12320 3680 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 12320 3635 50  0001 C CNN
+F 3 "~" H 12390 3635 50  0001 C CNN
+	1    12390 3635
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12390 3485 12390 3450
+Connection ~ 12390 3450
+Wire Wire Line
+	12390 3450 12305 3450
+Wire Wire Line
+	12390 3785 12775 3785
+Wire Wire Line
+	12775 3785 12775 3650
+Connection ~ 12775 3785
+$Comp
+L Device:LED D2
+U 1 1 61CC3652
+P 11900 3945
+F 0 "D2" V 11939 3827 50  0000 R CNN
+F 1 "RightHeatLED" V 11848 3827 50  0000 R CNN
+F 2 "_4runner-seat-heat-custom-libraries:Kingbright-APT1608LZGCK" H 11900 3945 50  0001 C CNN
+F 3 "~" H 11900 3945 50  0001 C CNN
+	1    11900 3945
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11900 3750 11900 3795
+$Comp
+L power:GND #PWR06
+U 1 1 61CC365D
+P 11900 4140
+F 0 "#PWR06" H 11900 3890 50  0001 C CNN
+F 1 "GND" H 11905 3967 50  0000 C CNN
+F 2 "" H 11900 4140 50  0001 C CNN
+F 3 "" H 11900 4140 50  0001 C CNN
+	1    11900 4140
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 61CC3667
+P 12775 4140
+F 0 "#PWR07" H 12775 3890 50  0001 C CNN
+F 1 "GND" H 12780 3967 50  0000 C CNN
+F 2 "" H 12775 4140 50  0001 C CNN
+F 3 "" H 12775 4140 50  0001 C CNN
+	1    12775 4140
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12775 3785 12775 4140
+Wire Wire Line
+	11900 4095 11900 4140
+Text GLabel 11790 3450 0    50   Input ~ 0
+Right-Heat-3V3
+$Comp
+L Device:R R10
+U 1 1 61CD77D0
+P 11955 5465
+F 0 "R10" V 11748 5465 50  0000 C CNN
+F 1 "10K" V 11839 5465 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 11885 5465 50  0001 C CNN
+F 3 "~" H 11955 5465 50  0001 C CNN
+	1    11955 5465
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	12105 5465 12265 5465
+$Comp
+L Device:R R13
+U 1 1 61CDB0F3
+P 12265 5675
+F 0 "R13" H 12195 5629 50  0000 R CNN
+F 1 "10K" H 12195 5720 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 12195 5675 50  0001 C CNN
+F 3 "~" H 12265 5675 50  0001 C CNN
+	1    12265 5675
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12265 5525 12265 5465
+Connection ~ 12265 5465
+Wire Wire Line
+	12265 5465 12445 5465
+Wire Wire Line
+	12745 5665 12745 5825
+Wire Wire Line
+	12745 5825 12265 5825
+Connection ~ 12745 5825
+Wire Wire Line
+	11805 5465 11690 5465
+$Comp
+L Device:R R15
+U 1 1 61CE4702
+P 11690 5615
+F 0 "R15" H 11620 5569 50  0000 R CNN
+F 1 "10K" H 11620 5660 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 11620 5615 50  0001 C CNN
+F 3 "~" H 11690 5615 50  0001 C CNN
+	1    11690 5615
+	-1   0    0    1   
+$EndComp
+Connection ~ 11690 5465
+Wire Wire Line
+	11690 5465 11595 5465
+$Comp
+L Device:LED D4
+U 1 1 61CE5274
+P 11690 5970
+F 0 "D4" V 11729 5852 50  0000 R CNN
+F 1 "Left-Illum-LED" V 11638 5852 50  0000 R CNN
+F 2 "_4runner-seat-heat-custom-libraries:Kingbright-APT1608LZGCK" H 11690 5970 50  0001 C CNN
+F 3 "~" H 11690 5970 50  0001 C CNN
+	1    11690 5970
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11690 5765 11690 5820
+$Comp
+L power:GND #PWR012
+U 1 1 61CE86A6
+P 11690 6155
+F 0 "#PWR012" H 11690 5905 50  0001 C CNN
+F 1 "GND" H 11695 5982 50  0000 C CNN
+F 2 "" H 11690 6155 50  0001 C CNN
+F 3 "" H 11690 6155 50  0001 C CNN
+	1    11690 6155
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11690 6120 11690 6155
+$Comp
+L power:GND #PWR013
+U 1 1 61CEB794
+P 12745 6155
+F 0 "#PWR013" H 12745 5905 50  0001 C CNN
+F 1 "GND" H 12750 5982 50  0000 C CNN
+F 2 "" H 12745 6155 50  0001 C CNN
+F 3 "" H 12745 6155 50  0001 C CNN
+	1    12745 6155
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12745 5825 12745 6155
+Text GLabel 11595 5465 0    50   Input ~ 0
+Left-Illum-3V3
+Text GLabel 12745 5235 1    50   Input ~ 0
+Left-Illum
+Wire Wire Line
+	12745 5265 12745 5235
+$Comp
+L Device:R R11
+U 1 1 61CF29F2
+P 14700 5435
+F 0 "R11" V 14493 5435 50  0000 C CNN
+F 1 "10K" V 14584 5435 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 14630 5435 50  0001 C CNN
+F 3 "~" H 14700 5435 50  0001 C CNN
+	1    14700 5435
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	14850 5435 15010 5435
+$Comp
+L Device:R R14
+U 1 1 61CF29FD
+P 15010 5645
+F 0 "R14" H 14940 5599 50  0000 R CNN
+F 1 "10K" H 14940 5690 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 14940 5645 50  0001 C CNN
+F 3 "~" H 15010 5645 50  0001 C CNN
+	1    15010 5645
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15010 5495 15010 5435
+Connection ~ 15010 5435
+Wire Wire Line
+	15010 5435 15190 5435
+Wire Wire Line
+	15490 5635 15490 5795
+Wire Wire Line
+	15490 5795 15010 5795
+Connection ~ 15490 5795
+Wire Wire Line
+	14550 5435 14435 5435
+$Comp
+L Device:R R16
+U 1 1 61CF2A0E
+P 14435 5585
+F 0 "R16" H 14365 5539 50  0000 R CNN
+F 1 "10K" H 14365 5630 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 14365 5585 50  0001 C CNN
+F 3 "~" H 14435 5585 50  0001 C CNN
+	1    14435 5585
+	-1   0    0    1   
+$EndComp
+Connection ~ 14435 5435
+Wire Wire Line
+	14435 5435 14340 5435
+$Comp
+L Device:LED D3
+U 1 1 61CF2A1A
+P 14435 5940
+F 0 "D3" V 14474 5822 50  0000 R CNN
+F 1 "Right-Illum-LED" V 14383 5822 50  0000 R CNN
+F 2 "_4runner-seat-heat-custom-libraries:Kingbright-APT1608LZGCK" H 14435 5940 50  0001 C CNN
+F 3 "~" H 14435 5940 50  0001 C CNN
+	1    14435 5940
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14435 5735 14435 5790
+$Comp
+L power:GND #PWR010
+U 1 1 61CF2A25
+P 14435 6125
+F 0 "#PWR010" H 14435 5875 50  0001 C CNN
+F 1 "GND" H 14440 5952 50  0000 C CNN
+F 2 "" H 14435 6125 50  0001 C CNN
+F 3 "" H 14435 6125 50  0001 C CNN
+	1    14435 6125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14435 6090 14435 6125
+$Comp
+L power:GND #PWR011
+U 1 1 61CF2A30
+P 15490 6125
+F 0 "#PWR011" H 15490 5875 50  0001 C CNN
+F 1 "GND" H 15495 5952 50  0000 C CNN
+F 2 "" H 15490 6125 50  0001 C CNN
+F 3 "" H 15490 6125 50  0001 C CNN
+	1    15490 6125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15490 5795 15490 6125
+Text GLabel 14340 5435 0    50   Input ~ 0
+Right-Illum-3V3
+Text GLabel 15490 5205 1    50   Input ~ 0
+Right-Illum
+Wire Wire Line
+	15490 5235 15490 5205
+$Comp
+L _4runner-seat-heat-custom-libraries:Teensy3.2 U2
+U 1 1 61CFB0FF
+P 8185 7105
+F 0 "U2" H 8510 7770 50  0000 C CNN
+F 1 "Teensy3.2" H 8510 7679 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:Teensy30_31_32_LC" H 8185 7755 50  0001 C CNN
+F 3 "" H 8185 7755 50  0001 C CNN
+	1    8185 7105
+	1    0    0    -1  
+$EndComp
+Text GLabel 7720 7105 0    50   Input ~ 0
+Left-Illum-3V3
+Wire Wire Line
+	7720 7105 7785 7105
+Text GLabel 7720 7205 0    50   Input ~ 0
+Right-Illum-3V3
+Wire Wire Line
+	7720 7205 7785 7205
+Text GLabel 9330 7105 2    50   Input ~ 0
+Right-Heat-3V3
+Wire Wire Line
+	9330 7105 9235 7105
+Text GLabel 9330 7005 2    50   Input ~ 0
+Left-Heat-3V3
+Wire Wire Line
+	9330 7005 9235 7005
+Wire Wire Line
+	9370 7905 9235 7905
+Text GLabel 9370 7805 2    50   Input ~ 0
+Left-Pot
+Wire Wire Line
+	9370 7805 9235 7805
+Text GLabel 9370 7905 2    50   Input ~ 0
+Right-Pot
+$Comp
+L power:GND #PWR014
+U 1 1 61D1CF80
+P 7685 6705
+F 0 "#PWR014" H 7685 6455 50  0001 C CNN
+F 1 "GND" V 7690 6577 50  0000 R CNN
+F 2 "" H 7685 6705 50  0001 C CNN
+F 3 "" H 7685 6705 50  0001 C CNN
+	1    7685 6705
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR015
+U 1 1 61D1E51A
+P 9345 6805
+F 0 "#PWR015" H 9345 6555 50  0001 C CNN
+F 1 "GND" V 9350 6677 50  0000 R CNN
+F 2 "" H 9345 6805 50  0001 C CNN
+F 3 "" H 9345 6805 50  0001 C CNN
+	1    9345 6805
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7685 6705 7785 6705
+$Comp
+L Device:R R20
+U 1 1 61D28BAF
+P 10125 7855
+F 0 "R20" H 10055 7809 50  0000 R CNN
+F 1 "1k" H 10055 7900 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 10055 7855 50  0001 C CNN
+F 3 "~" H 10125 7855 50  0001 C CNN
+	1    10125 7855
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9235 7705 10125 7705
+$Comp
+L Device:R R19
+U 1 1 61D2D234
+P 10445 7705
+F 0 "R19" V 10260 7695 50  0000 C CNN
+F 1 "3.6k" V 10350 7695 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 10375 7705 50  0001 C CNN
+F 3 "~" H 10445 7705 50  0001 C CNN
+	1    10445 7705
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10125 7705 10295 7705
+Connection ~ 10125 7705
+Wire Wire Line
+	9235 6805 9345 6805
+$Comp
+L power:GND #PWR024
+U 1 1 61D34784
+P 10125 8030
+F 0 "#PWR024" H 10125 7780 50  0001 C CNN
+F 1 "GND" H 10130 7857 50  0000 C CNN
+F 2 "" H 10125 8030 50  0001 C CNN
+F 3 "" H 10125 8030 50  0001 C CNN
+	1    10125 8030
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10125 8005 10125 8030
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796859-4 J9
+U 1 1 61D49BC5
+P 2430 5230
+F 0 "J9" H 2385 5405 50  0000 L CNN
+F 1 "TE-796859-3" H 2185 5320 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:DNP-Mechanical" H 2440 5360 50  0001 C CNN
+F 3 "" H 2440 5360 50  0001 C CNN
+	1    2430 5230
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Fuse F1
+U 1 1 61D5641E
+P 4080 5350
+F 0 "F1" V 4277 5350 50  0000 C CNN
+F 1 "Fuse" V 4186 5350 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:Keystone-3587-20" V 4010 5350 50  0001 C CNN
+F 3 "~" H 4080 5350 50  0001 C CNN
+	1    4080 5350
+	0    -1   -1   0   
+$EndComp
+Text Label 3300 5350 0    50   ~ 0
+12VDC-IGN
+$Comp
+L power:GND #PWR09
+U 1 1 61D5BF45
+P 3725 5430
+F 0 "#PWR09" H 3725 5180 50  0001 C CNN
+F 1 "GND" V 3730 5302 50  0000 R CNN
+F 2 "" H 3725 5430 50  0001 C CNN
+F 3 "" H 3725 5430 50  0001 C CNN
+	1    3725 5430
+	0    -1   -1   0   
+$EndComp
+Text Label 3295 5430 0    50   ~ 0
+GND
+Text GLabel 4285 5350 2    50   Input ~ 0
++12VDC
+Wire Wire Line
+	4230 5350 4285 5350
+Text GLabel 4160 5510 2    50   Input ~ 0
++12-TAIL
+Wire Wire Line
+	3245 5510 4160 5510
+Text Label 3285 5510 0    50   ~ 0
++12-TAIL
+$Comp
+L Device:Polyfuse F2
+U 1 1 61D6B059
+P 1925 6680
+F 0 "F2" V 1700 6680 50  0000 C CNN
+F 1 "Polyfuse" V 1791 6680 50  0000 C CNN
+F 2 "Fuse:Fuse_0603_1608Metric" H 1975 6480 50  0001 L CNN
+F 3 "~" H 1925 6680 50  0001 C CNN
+	1    1925 6680
+	0    1    1    0   
+$EndComp
+Text GLabel 1645 6680 0    50   Input ~ 0
++12VDC
+Wire Wire Line
+	1775 6680 1645 6680
+Text GLabel 2325 6605 1    50   Input ~ 0
++12-Polyfuse
+Wire Wire Line
+	2075 6680 2325 6680
+Wire Wire Line
+	2325 6605 2325 6680
+Connection ~ 2325 6680
+Wire Wire Line
+	2325 6680 2440 6680
+$Comp
+L Device:C C10
+U 1 1 61D7AD69
+P 2440 6830
+F 0 "C10" H 2555 6876 50  0000 L CNN
+F 1 "10uF" H 2555 6785 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1210_3225Metric" H 2478 6680 50  0001 C CNN
+F 3 "~" H 2440 6830 50  0001 C CNN
+	1    2440 6830
+	1    0    0    -1  
+$EndComp
+Connection ~ 2440 6680
+$Comp
+L Device:C C6
+U 1 1 61D7BD73
+P 2850 6830
+F 0 "C6" H 2965 6876 50  0000 L CNN
+F 1 "0.1uF" H 2965 6785 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1210_3225Metric" H 2888 6680 50  0001 C CNN
+F 3 "~" H 2850 6830 50  0001 C CNN
+	1    2850 6830
+	1    0    0    -1  
+$EndComp
+Connection ~ 2850 6680
+Wire Wire Line
+	2440 6680 2850 6680
+Wire Wire Line
+	3695 6680 3695 7155
+Wire Wire Line
+	3695 7155 3985 7155
+$Comp
+L Device:R R37
+U 1 1 61D88445
+P 3285 7440
+F 0 "R37" H 3355 7486 50  0000 L CNN
+F 1 "105k" H 3355 7395 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3215 7440 50  0001 C CNN
+F 3 "~" H 3285 7440 50  0001 C CNN
+	1    3285 7440
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR022
+U 1 1 61D8892A
+P 3285 7670
+F 0 "#PWR022" H 3285 7420 50  0001 C CNN
+F 1 "GND" H 3290 7497 50  0000 C CNN
+F 2 "" H 3285 7670 50  0001 C CNN
+F 3 "" H 3285 7670 50  0001 C CNN
+	1    3285 7670
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3285 7670 3285 7590
+$Comp
+L _4runner-seat-heat-custom-libraries:TPS54302DDCR U1
+U 1 1 61D94055
+P 4285 6955
+F 0 "U1" H 4335 7120 50  0000 C CNN
+F 1 "TPS54302DDCR" H 4335 7029 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:TPS54302DDCR" H 4135 7005 50  0001 C CNN
+F 3 "" H 4135 7005 50  0001 C CNN
+	1    4285 6955
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3985 7255 3285 7255
+Wire Wire Line
+	3285 6980 3285 7255
+Wire Wire Line
+	3285 7290 3285 7255
+Connection ~ 3285 7255
+$Comp
+L power:GND #PWR019
+U 1 1 61DA5F90
+P 2850 6980
+F 0 "#PWR019" H 2850 6730 50  0001 C CNN
+F 1 "GND" H 2855 6807 50  0000 C CNN
+F 2 "" H 2850 6980 50  0001 C CNN
+F 3 "" H 2850 6980 50  0001 C CNN
+	1    2850 6980
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR018
+U 1 1 61DA655E
+P 2440 6980
+F 0 "#PWR018" H 2440 6730 50  0001 C CNN
+F 1 "GND" H 2445 6807 50  0000 C CNN
+F 2 "" H 2440 6980 50  0001 C CNN
+F 3 "" H 2440 6980 50  0001 C CNN
+	1    2440 6980
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C7
+U 1 1 61DA68D4
+P 4335 6550
+F 0 "C7" V 4083 6550 50  0000 C CNN
+F 1 "0.1uF" V 4174 6550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4373 6400 50  0001 C CNN
+F 3 "~" H 4335 6550 50  0001 C CNN
+	1    4335 6550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3985 7055 3855 7055
+Wire Wire Line
+	3855 7055 3855 6550
+Wire Wire Line
+	3855 6550 4185 6550
+Wire Wire Line
+	4485 6550 4810 6550
+Wire Wire Line
+	4810 6550 4810 7055
+Wire Wire Line
+	4810 7055 4685 7055
+$Comp
+L Device:L L1
+U 1 1 61DB3A22
+P 4965 6550
+F 0 "L1" V 5155 6550 50  0000 C CNN
+F 1 "L" V 5064 6550 50  0000 C CNN
+F 2 "Inductor_SMD:L_Wuerth_WE-PDF" H 4965 6550 50  0001 C CNN
+F 3 "~" H 4965 6550 50  0001 C CNN
+	1    4965 6550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C8
+U 1 1 61DB4CFA
+P 5115 6700
+F 0 "C8" H 5000 6654 50  0000 R CNN
+F 1 "22uF" H 5000 6745 50  0000 R CNN
+F 2 "Capacitor_SMD:C_1210_3225Metric" H 5153 6550 50  0001 C CNN
+F 3 "~" H 5115 6700 50  0001 C CNN
+	1    5115 6700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5115 6550 5535 6550
+Connection ~ 5115 6550
+$Comp
+L Device:C C9
+U 1 1 61DBBD5F
+P 5535 6700
+F 0 "C9" H 5420 6654 50  0000 R CNN
+F 1 "22uF" H 5420 6745 50  0000 R CNN
+F 2 "Capacitor_SMD:C_1210_3225Metric" H 5573 6550 50  0001 C CNN
+F 3 "~" H 5535 6700 50  0001 C CNN
+	1    5535 6700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5535 6550 6005 6550
+Connection ~ 5535 6550
+$Comp
+L power:GND #PWR016
+U 1 1 61DC291F
+P 5115 6850
+F 0 "#PWR016" H 5115 6600 50  0001 C CNN
+F 1 "GND" H 5120 6677 50  0000 C CNN
+F 2 "" H 5115 6850 50  0001 C CNN
+F 3 "" H 5115 6850 50  0001 C CNN
+	1    5115 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR017
+U 1 1 61DC2F2A
+P 5535 6850
+F 0 "#PWR017" H 5535 6600 50  0001 C CNN
+F 1 "GND" H 5540 6677 50  0000 C CNN
+F 2 "" H 5535 6850 50  0001 C CNN
+F 3 "" H 5535 6850 50  0001 C CNN
+	1    5535 6850
+	1    0    0    -1  
+$EndComp
+Connection ~ 3285 6680
+Wire Wire Line
+	3285 6680 3695 6680
+Wire Wire Line
+	2850 6680 3285 6680
+$Comp
+L Device:R R35
+U 1 1 61D815E5
+P 3285 6830
+F 0 "R35" H 3355 6876 50  0000 L CNN
+F 1 "510k" H 3355 6785 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3215 6830 50  0001 C CNN
+F 3 "~" H 3285 6830 50  0001 C CNN
+	1    3285 6830
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R34
+U 1 1 61DC975F
+P 6005 6700
+F 0 "R34" H 6075 6746 50  0000 L CNN
+F 1 "49.9" H 6075 6655 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5935 6700 50  0001 C CNN
+F 3 "~" H 6005 6700 50  0001 C CNN
+	1    6005 6700
+	1    0    0    -1  
+$EndComp
+Connection ~ 6005 6550
+Wire Wire Line
+	6005 6550 6225 6550
+$Comp
+L Device:R R36
+U 1 1 61DC9F57
+P 6005 7185
+F 0 "R36" H 6075 7231 50  0000 L CNN
+F 1 "100k" H 6075 7140 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5935 7185 50  0001 C CNN
+F 3 "~" H 6005 7185 50  0001 C CNN
+	1    6005 7185
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C12
+U 1 1 61DCA482
+P 5740 7185
+F 0 "C12" H 5985 7145 50  0000 R CNN
+F 1 "22uF" H 6050 7230 50  0000 R CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5778 7035 50  0001 C CNN
+F 3 "~" H 5740 7185 50  0001 C CNN
+	1    5740 7185
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6005 6850 6005 7035
+Wire Wire Line
+	6005 7035 5740 7035
+Connection ~ 6005 7035
+Wire Wire Line
+	4685 7155 5330 7155
+Wire Wire Line
+	5330 7155 5330 7335
+Wire Wire Line
+	5330 7335 5740 7335
+Connection ~ 5740 7335
+Wire Wire Line
+	5740 7335 6005 7335
+$Comp
+L Device:R R38
+U 1 1 61DED4D0
+P 6005 7485
+F 0 "R38" H 6075 7531 50  0000 L CNN
+F 1 "22k" H 6075 7440 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 5935 7485 50  0001 C CNN
+F 3 "~" H 6005 7485 50  0001 C CNN
+	1    6005 7485
+	1    0    0    -1  
+$EndComp
+Connection ~ 6005 7335
+$Comp
+L power:GND #PWR021
+U 1 1 61DEDA86
+P 6005 7635
+F 0 "#PWR021" H 6005 7385 50  0001 C CNN
+F 1 "GND" H 6010 7462 50  0000 C CNN
+F 2 "" H 6005 7635 50  0001 C CNN
+F 3 "" H 6005 7635 50  0001 C CNN
+	1    6005 7635
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR020
+U 1 1 61DEE1CE
+P 4875 7255
+F 0 "#PWR020" H 4875 7005 50  0001 C CNN
+F 1 "GND" H 4880 7082 50  0000 C CNN
+F 2 "" H 4875 7255 50  0001 C CNN
+F 3 "" H 4875 7255 50  0001 C CNN
+	1    4875 7255
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4685 7255 4875 7255
+Text GLabel 9345 6705 2    50   Input ~ 0
+3V3
+Wire Wire Line
+	9345 6705 9235 6705
+Text GLabel 6225 6550 2    50   Input ~ 0
+3V3
+Text Label 4745 7155 0    50   ~ 0
+3V3-FB
+Text Label 3880 6550 0    50   ~ 0
+3V3-Boot
+Text Label 3465 7255 0    50   ~ 0
+3V3-EN
+$Comp
+L _4runner-seat-heat-custom-libraries:BSH103,215 Q4
+U 1 1 61F2AC6A
+P 15490 5435
+F 0 "Q4" H 15594 5481 50  0000 L CNN
+F 1 "BSH103,215" H 15594 5390 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:BSH103,215" H 15500 5560 50  0001 C CNN
+F 3 "https://octopart.com/bsh103%2C215-nxp+semiconductors-10470105" H 15500 5560 50  0001 C CNN
+	1    15490 5435
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:BSH103,215 Q3
+U 1 1 61F2C0BD
+P 12745 5465
+F 0 "Q3" H 12849 5511 50  0000 L CNN
+F 1 "BSH103,215" H 12849 5420 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:BSH103,215" H 12755 5590 50  0001 C CNN
+F 3 "https://octopart.com/bsh103%2C215-nxp+semiconductors-10470105" H 12755 5590 50  0001 C CNN
+	1    12745 5465
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:BUK9Y30-75B,115 Q2
+U 1 1 61F2EDCA
+P 12775 3450
+F 0 "Q2" H 12879 3496 50  0000 L CNN
+F 1 "BUK9Y30-75B,115" H 12879 3405 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:BUK9Y30-75B,115-SOT669" H 12785 3575 50  0001 C CNN
+F 3 "https://octopart.com/buk9y30-75b%2C115-nxp+semiconductors-17605791" H 12785 3575 50  0001 C CNN
+	1    12775 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L _4runner-seat-heat-custom-libraries:BUK9Y30-75B,115 Q1
+U 1 1 61F309F4
+P 12755 1710
+F 0 "Q1" H 12859 1756 50  0000 L CNN
+F 1 "BUK9Y30-75B,115" H 12859 1665 50  0000 L CNN
+F 2 "_4runner-seat-heat-custom-libraries:BUK9Y30-75B,115-SOT669" H 12765 1835 50  0001 C CNN
+F 3 "https://octopart.com/buk9y30-75b%2C115-nxp+semiconductors-17605791" H 12765 1835 50  0001 C CNN
+	1    12755 1710
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10595 7705 10620 7705
+Wire Wire Line
+	4810 6550 4815 6550
+Connection ~ 4810 6550
+Text GLabel 10620 7705 2    50   Input ~ 0
++12-TAIL
+$Comp
+L _4runner-seat-heat-custom-libraries:TE-796866-4 J10
+U 1 1 61D4C3BB
+P 2995 5210
+F 0 "J10" H 3063 5403 50  0000 C CNN
+F 1 "TE796864-3" H 3063 5312 50  0000 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-796864-3" H 3025 5300 50  0001 C CNN
+F 3 "" H 3025 5300 50  0001 C CNN
+	1    2995 5210
+	1    0    0    -1  
+$EndComp
+Text Label 3300 5590 0    50   ~ 0
+DIMMER-GND
+Text GLabel 4580 5590 2    50   Input ~ 0
+DIMMER-GND
+Wire Wire Line
+	3245 5350 3930 5350
+Wire Wire Line
+	3245 5430 3725 5430
+Wire Wire Line
+	3245 5590 4580 5590
+Text GLabel 6820 3975 2    50   Input ~ 0
++12-Polyfuse
+Wire Wire Line
+	5680 3975 6820 3975
+Connection ~ 6275 1630
+Wire Wire Line
+	6275 1630 6385 1630
+Wire Wire Line
+	6275 1330 6275 1305
+Text GLabel 6710 1630 2    50   Input ~ 0
++12-TAIL
+Wire Wire Line
+	6685 1630 6710 1630
+Wire Wire Line
+	5730 1630 6275 1630
+Text GLabel 7155 1700 2    50   Input ~ 0
+DIMMER-GND
+Wire Wire Line
+	5730 1700 7155 1700
+Wire Wire Line
+	5730 1855 7125 1855
+$Comp
+L Device:R R?
+U 1 1 6229FFBD
+P 6275 1480
+F 0 "R?" H 6440 1420 50  0000 R CNN
+F 1 "0ohm" H 6545 1510 50  0000 R CNN
+F 2 "" V 6205 1480 50  0001 C CNN
+F 3 "~" H 6275 1480 50  0001 C CNN
+	1    6275 1480
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 62298248
+P 6535 1630
+F 0 "R?" V 6328 1630 50  0000 C CNN
+F 1 "0ohm" V 6419 1630 50  0000 C CNN
+F 2 "" V 6465 1630 50  0001 C CNN
+F 3 "~" H 6535 1630 50  0001 C CNN
+	1    6535 1630
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 622E1A26
+P 6215 3600
+F 0 "R?" H 6380 3540 50  0000 R CNN
+F 1 "0ohm" H 6485 3630 50  0000 R CNN
+F 2 "" V 6145 3600 50  0001 C CNN
+F 3 "~" H 6215 3600 50  0001 C CNN
+	1    6215 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 622E1A30
+P 6475 3750
+F 0 "R?" V 6268 3750 50  0000 C CNN
+F 1 "0ohm" V 6359 3750 50  0000 C CNN
+F 2 "" V 6405 3750 50  0001 C CNN
+F 3 "~" H 6475 3750 50  0001 C CNN
+	1    6475 3750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6215 3750 6325 3750
+Wire Wire Line
+	6660 3750 6625 3750
+Text GLabel 6215 3450 1    50   Input ~ 0
+Left-Illum
+Text GLabel 6660 3750 2    50   Input ~ 0
++12-TAIL
+Text GLabel 7105 3820 2    50   Input ~ 0
+DIMMER-GND
+Wire Wire Line
+	5680 3820 7105 3820
+Wire Wire Line
+	6215 3750 5680 3750
+Connection ~ 6215 3750
+Wire Notes Line
+	10570 4670 16225 4670
+Wire Notes Line
+	16225 4670 16225 6555
+Wire Notes Line
+	16225 6555 10570 6555
+Wire Notes Line
+	10570 6555 10570 4670
+Text Notes 10565 6670 0    50   ~ 0
+Only populate if not using vehicle backlight dimming
+Wire Notes Line
+	6330 2950 6330 3725
+Wire Notes Line
+	6330 3725 5925 3725
+Wire Notes Line
+	5925 3725 5925 2950
+Wire Notes Line
+	5925 2950 6330 2950
+Text Notes 5655 2895 0    50   ~ 0
+Only populate if not using \nvehicle backlight dimming
+Wire Notes Line
+	5965 770  6385 770 
+Wire Notes Line
+	6385 770  6385 1670
+Wire Notes Line
+	6385 1670 5965 1670
+Wire Notes Line
+	5965 770  5965 1670
+Text Notes 5710 735  0    50   ~ 0
+Only populate if not using \nvehicle backlight dimming
+Text GLabel 7010 7905 0    50   Input ~ 0
++12VDC
+Wire Wire Line
+	7010 7905 7070 7905
+Wire Wire Line
+	7415 8205 7415 8230
+$Comp
+L power:GND #PWR023
+U 1 1 61D3CECA
+P 7415 8230
+F 0 "#PWR023" H 7415 7980 50  0001 C CNN
+F 1 "GND" H 7420 8057 50  0000 C CNN
+F 2 "" H 7415 8230 50  0001 C CNN
+F 3 "" H 7415 8230 50  0001 C CNN
+	1    7415 8230
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 61D3CEBE
+P 7220 7905
+F 0 "R17" V 7035 7895 50  0000 C CNN
+F 1 "3.6k" V 7125 7895 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7150 7905 50  0001 C CNN
+F 3 "~" H 7220 7905 50  0001 C CNN
+	1    7220 7905
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 61D3C8DB
+P 7415 8055
+F 0 "R18" H 7345 8009 50  0000 R CNN
+F 1 "1k" H 7345 8100 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7345 8055 50  0001 C CNN
+F 3 "~" H 7415 8055 50  0001 C CNN
+	1    7415 8055
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7415 7905 7370 7905
+Connection ~ 7415 7905
+Wire Wire Line
+	7785 7905 7415 7905
+$EndSCHEMATC

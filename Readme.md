@@ -18,14 +18,14 @@
 | | |
 |-------------------|---------------:|
 | Height (mm)       | 75             |
-| Width (mm)        | 67             |
+| Width (mm)        | 72             |
 | Layers            | 2              |
 | Thickness (mm)    | 1.6            |
 | Solder Mask       | Black          |
 | Silkscreen        | White          |
 | Copper Thickness  | 1 oz           |
 | Min Spacing       | 8/8mil         |
-| Min Hol Size      | 8mil           |
+| Min Hole Size     | 8mil           |
 | Via Process       | Tented         |
 | Surface Treatment | HASL-Lead Free |
 | Special Notes     | None           |
