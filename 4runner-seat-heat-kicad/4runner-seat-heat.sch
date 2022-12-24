@@ -1372,7 +1372,7 @@ U 1 1 61D4C3BB
 P 2995 5210
 F 0 "J10" H 3063 5403 50  0000 C CNN
 F 1 "TE796864-3" H 3063 5312 50  0000 C CNN
-F 2 "_4runner-seat-heat-custom-libraries:TE-796864-3" H 3025 5300 50  0001 C CNN
+F 2 "_4runner-seat-heat-custom-libraries:TE-796864-4" H 3025 5300 50  0001 C CNN
 F 3 "" H 3025 5300 50  0001 C CNN
 	1    2995 5210
 	1    0    0    -1  
