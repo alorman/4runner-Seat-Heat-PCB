@@ -6,13 +6,16 @@
 ![](images/4runner-seat-heat-front-back.png)
 
 ## Schematic
-[Schematic](exports/4runner-seat-heat-rev01-1-schematic.pdf)
+[Schematic](exports/Schematics/4Runner-seat-heat-rev03-schematic.pdf)
 
 ## BOM
 [Interactive BOM](exports/BOM/ibom.html)
 
 ## Gerbers
 [Gerber](exports/Gerbers)
+
+## STEP Files
+[STEP](exports/STEP/4runner-seat-heat-rev03.step)
 
 ## Fab Instructions
 | | |
