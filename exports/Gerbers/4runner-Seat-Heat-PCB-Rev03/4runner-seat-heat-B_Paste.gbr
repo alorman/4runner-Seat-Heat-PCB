@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
+<<<<<<< HEAD:exports/Gerbers/4runner-Seat-Heat-PCB-Rev02/4runner-seat-heat-B_Paste.gbr
+%TF.CreationDate,2022-03-20T14:43:19-04:00*%
+=======
+%TF.CreationDate,2022-12-24T12:33:20-05:00*%
+>>>>>>> better-backligh-control:exports/Gerbers/4runner-Seat-Heat-PCB-Rev03/4runner-seat-heat-B_Paste.gbr
+%TF.ProjectId,4runner-seat-heat,3472756e-6e65-4722-9d73-6561742d6865,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+<<<<<<< HEAD:exports/Gerbers/4runner-Seat-Heat-PCB-Rev02/4runner-seat-heat-B_Paste.gbr
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2022-03-20 14:43:19*
+=======
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2022-12-24 12:33:20*
+>>>>>>> better-backligh-control:exports/Gerbers/4runner-Seat-Heat-PCB-Rev03/4runner-seat-heat-B_Paste.gbr
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*

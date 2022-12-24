@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <<<<<<< HEAD:4runner-seat-heat/4runner-seat-heat.pro
 update=2/19/2022 16:32:45
 =======
 update=3/12/2022 14:58:04
 >>>>>>> 6d0aa608fc43b9e814fdb924c7a0c06a5902e99c:4runner-seat-heat-kicad/4runner-seat-heat.pro
+=======
+update=12/24/2022 12:36:37
+>>>>>>> better-backligh-control
 version=1
 last_client=kicad
 [general]
