@@ -1,0 +1,58 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSH103,215
+D MOSFET N-CH 30V 850MA TO236AB
+F https://octopart.com/bsh103%2C215-nxp+semiconductors-10470105
+$ENDCMP
+#
+$CMP BUK9Y30-75B,115
+D MOSFET N-CH 75V 34A LFPAK56
+F https://octopart.com/buk9y30-75b%2C115-nxp+semiconductors-17605791
+$ENDCMP
+#
+$CMP TE-1743655-1
+D Contact SKT Crimp ST Cable Mount T/R Automotive
+F https://octopart.com/1743655-1-te+connectivity+%2F+amp-42552793?r=sp
+$ENDCMP
+#
+$CMP TE-284510-6
+D Conn Eurostyle Block PL 6 POS 3.5mm Solder RA Thru-Hole 11A/Contact
+F https://octopart.com/284510-6-te+connectivity+%2F+amp-39539858?r=sp
+$ENDCMP
+#
+$CMP TE-284539-6
+D Header Shrouded 6 Position 3.5 mm Pitch Right Angle Euro Style Terminal Block
+F https://octopart.com/284539-6-te+connectivity+%2F+amp-40013950?r=sp
+$ENDCMP
+#
+$CMP TE-796859-2
+D Conn Terminal Block F 2 POS 5.08mm Screw RA Panel Mount 15A/Contact
+F https://octopart.com/796859-2-te+connectivity-40261059?r=sp
+$ENDCMP
+#
+$CMP TE-796859-4
+D Conn Terminal Block F 4 POS 5.08mm Screw RA Panel Mount 15A/Contact
+F https://octopart.com/796858-4-te+connectivity-40338311?r=pap
+$ENDCMP
+#
+$CMP TE-796864-2
+D Conn Wire to Board HDR 2 POS 5mm Solder RA Side Entry Thru-Hole Carton
+F https://octopart.com/796864-2-te+connectivity-40252687?r=sp
+$ENDCMP
+#
+$CMP TE-796866-4
+D Conn Shrouded Header (4 Sides) HDR 3 POS 5mm Solder RA Side Entry Thru-Hole Carton
+F https://octopart.com/1-796866-4-te+connectivity+%2F+amp-40529985
+$ENDCMP
+#
+$CMP TPS54302DDCR
+D Conv DC-DC 4.5V to 28V Synchronous Step Down Single-Out 0.6V to 26V 3A 6-Pin TSOT-23 T/R
+F https://octopart.com/tps54302ddcr-texas+instruments-74209025?r=sp
+$ENDCMP
+#
+$CMP Teensy3.2
+D Teensy 3.2/LC
+F https://octopart.com/dev-13736-sparkfun-66786793?r=sp
+$ENDCMP
+#
+#End Doc Library

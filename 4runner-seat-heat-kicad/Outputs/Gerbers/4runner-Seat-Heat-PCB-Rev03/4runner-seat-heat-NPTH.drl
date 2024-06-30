@@ -1,0 +1,19 @@
+M48
+<<<<<<< HEAD:exports/Gerbers/4runner-Seat-Heat-PCB-Rev02/4runner-seat-heat-NPTH.drl
+; DRILL file {KiCad (5.1.9)-1} date 03/20/22 14:43:24
+; FORMAT={-:-/ absolute / inch / decimal}
+; #@! TF.CreationDate,2022-03-20T14:43:24-04:00
+=======
+; DRILL file {KiCad (5.1.9)-1} date 12/24/22 12:33:23
+; FORMAT={-:-/ absolute / inch / decimal}
+; #@! TF.CreationDate,2022-12-24T12:33:23-05:00
+>>>>>>> better-backligh-control:exports/Gerbers/4runner-Seat-Heat-PCB-Rev03/4runner-seat-heat-NPTH.drl
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,(5.1.9)-1
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+INCH
+%
+G90
+G05
+T0
+M30
