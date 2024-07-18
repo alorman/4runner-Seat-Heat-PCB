@@ -9,7 +9,7 @@
 [Schematic](exports/Schematics/4Runner-seat-heat-rev03-schematic.pdf)
 
 ## BOM
-[Interactive BOM](exports/BOM/ibom.html)
+[Interactive BOM](https://alorman.github.io/4runner-Seat-Heat-PCB/exports/BOM/ibom.html)
 
 ## Gerbers
 [Gerber](exports/Gerbers)
